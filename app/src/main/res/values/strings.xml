@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Calcular dimensiones</string>
+
+    <string name="tabla_alto">Alto</string>
+    <string name="tabla_ancho">Ancho</string>
+
+    <string name="tabla_pantalla_XXX">XXXHDPI</string>
+    <string name="tabla_pantalla_XX">XXHDPI</string>
+    <string name="tabla_pantalla_X">XHDPI</string>
+    <string name="tabla_pantalla_H">HDPI</string>
+    <string name="tabla_pantalla_M">MDPI</string>
+
+    <string name="btn_calcular">Calcular</string>
+    <string name="btn_limpiar">Limpiar</string>
+
+</resources>
